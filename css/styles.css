@@ -1,0 +1,17 @@
+.heading{
+  text-transform: uppercase;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.contact-info{
+  list-style: none;
+  text-transform: capitalize;
+}
+
+.email{
+  text-transform: lowercase;
+}
