@@ -7,9 +7,8 @@ _Run the following commands in Terminal:_
 
 1. `$ git clone` [this repository](https://github.com/codemargaret/resume_template.git)
 2. `$ cd resume_template`
-3. `$ open resume.html`
-
-_Open in your preferred text editor for a closer look at the code._
+3. `$ open resume.html` _to see the template._
+4. _Open in your preferred text editor to edit the template._
 
 ## User Stories
 * _As a user, I want to..._
